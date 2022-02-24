@@ -1,4 +1,4 @@
-##ImgDist
+## ImgDist
 *ImgDist* is a program designed to detect and analyze images containing microscopic particles. Or in more general terms: measure distances and unitcells pictured on a image. 
 
 *ImgDist* is developed on Ubuntu 18.04 LTS. For now this GitHub only contains Windows binary in the 'windows' sub-directory.
